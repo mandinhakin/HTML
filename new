@@ -1,0 +1,13 @@
+<!DOCTYPE html> <!-- Padrão HTML 5 -->
+<html>
+
+    <head>
+        <title>Titulo</title>
+    </head>
+
+    <body>
+        <h1>Introdução</h1>
+        Texto...
+    </body>
+
+    </html>
